@@ -2,12 +2,12 @@
 React Native AwesomeApp Demo
 We prepared a Demo app for your better understanding. Go through each steps and follow the instructions.
 
-**Installation**
+# Installation
  npm install -g create-react-native-app
-  # or
+  *or*
  yarn global add create-react-native-app
-
-**Clone this project**
+ 
+# Clone this project
 git clone < project-url.git >
 Install **NodeJS** on your computer.
 Install **npm** on your system.
@@ -16,12 +16,12 @@ Launch 'npm install' command in a terminal opened in the project folder. /*This 
 Ensure a device, or emulated Android image is connected (adb devices)./* for android */
 Fire the command 'npm start' or 'react-native run-ios' for running in iOS Simulator or 'react-native run-android' for running in android simulator. And hurray!! you are finally there.
   
- **Troubleshooting:**
+ # Troubleshooting:
 *Note*: Each time you pull commits from others, run the **_npm install_** command to install dependencies that may have been introduced.
 *react-native is not recognized as an internal or external command*
 If your terminal is telling you react-native is not known, try to install it globally with npm: *npm install -g react-native-cli* OR *npm install -g create-react-native-app* and re-run the above command.
 
-**Some of the useful commands while using npm which will help you if you are facing any issues:-**
+# Some of the useful commands while using npm which will help you if you are facing any issues: 
 *npm test*
 Runs the jest test runner on your tests.
 
